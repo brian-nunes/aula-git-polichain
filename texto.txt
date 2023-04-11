@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 Olá mundo!
 
 eai, brian
 
 Feita a alteração na main
-=======
-eai, brian
->>>>>>> 926fa9af42d7cba040337ce6a78294ffd7fb73bb
